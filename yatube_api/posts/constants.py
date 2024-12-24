@@ -1,0 +1,3 @@
+CONSTANTS = {
+    'MAX_LENGTH': 200
+}
